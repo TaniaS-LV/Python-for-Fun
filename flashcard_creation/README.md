@@ -18,9 +18,10 @@ Some screenshots:
 
 ![image](https://user-images.githubusercontent.com/91870217/208481223-cdbf7a97-1f93-4faf-b35b-bea7691b9227.png)
 
-* CSV file uploaded into AnkiAPP:
+* CSV file uploaded into AnkiApp:
 
-![image](https://user-images.githubusercontent.com/91870217/208481424-04983d71-dc54-43da-8b73-a78dd05e9e25.png)
+![image](https://user-images.githubusercontent.com/91870217/208486886-19781a21-c4f7-49c5-ba7f-da94c04cd7ce.png)
+
 
 
 
