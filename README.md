@@ -8,5 +8,21 @@ Here is how Python helped me create my flashcard decks in seconds:
 * **get the voice recording to train pronunciation**. To achieve that, I used an API based on Microsoft Speech Service (hosted on RapidAPI.com). On a side note – I was really surprised by the quality of the voice recordings, which is nothing like the robotic pronunciation used a couple of years ago by most online text-to-speech services. 
 * **format all the data according to the AnkiApp requirements into a CSV file**. To achieve that, I used pandas library.
 
+Some screenshots: 
+
+* Input file example: 
+
+![image](https://user-images.githubusercontent.com/91870217/208480958-10e79e2a-77e8-4aa7-9cdf-121ceea2df91.png)
+
+* Output file example:
+
+![image](https://user-images.githubusercontent.com/91870217/208481223-cdbf7a97-1f93-4faf-b35b-bea7691b9227.png)
+
+* CSV file uploaded into AnkiAPP:
+
+![image](https://user-images.githubusercontent.com/91870217/208481424-04983d71-dc54-43da-8b73-a78dd05e9e25.png)
+
+
+
 
 
