@@ -1,5 +1,5 @@
 # Automated Flashcard Deck Preparation
-As an avid language learner, I am a big fan of flashcards. I do see a number of drawbacks in most existing flashcard solutions I have tried so far and which I will hopefully try to gradually overcome with my other projects built on Python, but at this moment, I am using AnkiApp as my main flashcard tool (not to be confused with AnkiDroid). 
+As an avid language learner, I am a big fan of flashcards. I do see a number of drawbacks in most existing flashcard solutions I have tried so far which I will hopefully try to gradually overcome with my other projects built on Python, but at this moment, I am using AnkiApp as my main flashcard tool (not to be confused with AnkiDroid). 
 
 Over the years, I have created my own list of core words and phrases I want to learn  first when starting a new language (the ones I use most frequently in my daily life and which don’t necessarily coincide with word frequency lists found on the Internet (for example, in my list I have a lot of words related to my career, my hobbies, my country etc., which may not be relevant to other people), besides I tried to create real life phrases for each of the words so that I can memorize them in context).  
 
