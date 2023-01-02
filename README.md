@@ -1,6 +1,6 @@
 # Language Learning Python Projects 
 
-One of my hobbies is learning languages. After having learned 5 of them, I realized that some parts of the learning process can be automated and enhanced via programming languages such as Python. 
+One of my hobbies is learning languages. After having learned 5 of them and playing around with 4 others, I realized that some parts of the learning process can be automated and enhanced via programming languages such as Python. 
 
 In this repo I'll publish some of my language learning related projects, such as: 
 
