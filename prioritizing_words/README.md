@@ -8,7 +8,7 @@ Hence, for me it makes sense to prioritize all the words I encounter, before I d
 That's how I optimize my learning process to learn languages faster!
 
 ## Program 
-To help myself with this process, I wrote a Python program (using OOP, which was an interesting challenge for me) doing the followinf. 
+To help myself with this process, I wrote a Python program (using OOP, which was an interesting challenge for me) doing the following. 
 
 ### Defining word frequency 
 With the help of **web scraping of Collins dictionary** I find out the frequency of any word (that's a truly amazing resource, I wish they develop it for more languages in the future). 
