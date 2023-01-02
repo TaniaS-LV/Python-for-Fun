@@ -16,8 +16,8 @@ def ask_in_tl(ask):
     check = False
     if source == 'de':
         check = linguee.check_in_list(ask)
-    linguee.get_examples(ask, source, destination)
     if check != True:
+        linguee.get_examples(ask, source, destination)
         collins.check_frequency(ask, language)
     linguee.reset()
 
